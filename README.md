@@ -1,3 +1,4 @@
+![alt text](https://github.com/Mamoosh/banana_autoclicker/blob/main/banana.PNG)
 # Banana Auto Clicker
 
 The Banana Auto Clicker is a Python-based application that allows users to automate mouse clicks at specific locations on the screen. This tool can be useful for repetitive tasks, such as playing games or performing other routine actions that require frequent clicking.
